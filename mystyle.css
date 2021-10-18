@@ -1,0 +1,63 @@
+.head
+{
+  padding-left : 210px;
+  padding-top : 90px;
+  font-size : 30px;
+}
+
+.main
+{
+  border : solid;
+  border-radius : 9px;
+  padding-left : 50px;
+  padding-bottom: 20px;
+  backdrop-filter : blur(9px);
+}
+
+.get
+{
+  padding-left: 200px;
+  font-size: 30px;
+}
+
+.mynum
+{
+  padding-left: 219px;
+}
+
+.ans
+{
+  padding-top: 9px;
+  padding-left: 270px;
+}
+
+.result
+{
+  font-size: 21px;
+  padding-left: 200px;
+}
+
+#answer
+{
+  padding: 7px;
+  border-radius: 7px;
+}
+
+#answer:hover
+{
+  background-color: rgb(230,77,52);
+}
+
+#num
+{
+  padding: 5px;
+}
+
+body
+{
+  background-image: url(https://cdn.wallpapersafari.com/94/39/wrGnD8.jpg);
+  background-repeat : no-repeat;
+  background-size : 1510px 900px;
+  padding-left : 270px;
+  padding-right : 270px;
+}
